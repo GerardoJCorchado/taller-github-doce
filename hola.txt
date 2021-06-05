@@ -1,2 +1,7 @@
 Linea 1
 cambios-uno
+Counter Conflict 1
+Counter Conflict 2
+Counter Conflict 3
+Counter Conflict 4
+Counter Conflict 5
